@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navaljit-Singh.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning java.
+- 🌱 I’m currently learning c++.
 
 
 
