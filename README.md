@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Navaljit-Singh.
+- 👋 Hi, I’m Navaljit Singh.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning c++.
 
